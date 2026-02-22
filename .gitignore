@@ -1,0 +1,5 @@
+proposal.txt
+
+# Raw CDC BRFSS data file — too large for version control (~1.1 GB)
+*.xpt
+*.XPT
